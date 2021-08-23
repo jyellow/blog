@@ -7,4 +7,3 @@
 ## 6. Spring MVC
 ## 7. Spring Boot
 ## 8. Spring Cloud Alibaba
-## 9. 权限管理
